@@ -88,7 +88,7 @@
 								</ul>
 							</li>
         <li class="nav-item">
-            <a class="nav-link" href="checkout.php">Checkout</a>
+            <a class="nav-link" href="checkout.php">CheckOut</a>
         </li>
         </ul>
     </div>
