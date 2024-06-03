@@ -309,11 +309,13 @@ hr {
 .signInPage p {
   color: #fff;
 }
-.signUpPage label,
-.signUpPage div,
-.signUpPage h1,
-.signUpPage p {
-  color: #fff;
+.signUpPage {
+  label,
+  div,
+  h1,
+  p {
+    color: #fff;
+  }
 }
 .forgotPagelabel,
 .forgotPage div,
